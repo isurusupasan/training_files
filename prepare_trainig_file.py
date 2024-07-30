@@ -52,8 +52,23 @@ def add_data(new_data, keys_to_keep, filename='training_data.json'):
 
     print("Data has been added to '{filename}'")
 
+# # to change the fine-label into label
+# def rename(data, old_key, new_key):
+#     if isinstance(data, dict):
+#         #print('b')
+#         for key in list(data.keys()):
+#             print(key)
+#             if key == old_key:
+#                 #print('a')
+#                 data[new_key]=data.pop(old_key)
+#                 rename(data[new_key], old_key, new_key)
+#     elif isinstance(data, list):
+#         for item in data:
+#             #print(item)
+#             rename(item, old_key, new_key)
+                    
 
-# Manual check scores
+# upload the json into code
 match_id = '20130607-M-Roland_Garros-SF-Novak_Djokovic-Rafael_Nadal'
 if os.path.exists('%s.json' % match_id):
     file_name = '%s.json' % match_id
@@ -61,9 +76,11 @@ else:
     print("error importing")
     #new_json_file = []
 json_file = json.load(open(file_name))
-#print(json_file)
+# check new method
+# updated_json = rename(json_file, "video", "sq_img")
+# print(updated_json)
 
-for clip_id, clip in enumerate(json_file):
+for clip_id, clip in enumerate(json_file): 
     if clip ['check'] == 'NA':
         print(clip_id, clip)
         keys_to_keep = ["events", "frame", "fine_label", "check", "fps", "num_frames", "video", "far_name", "far_hand", "far_set", "far_game", "far_point", "near_name", "near_hand", "near_set", "near_game", "near_point"]
