@@ -3,56 +3,56 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 20
       },
       {
         "frame": 39,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 62
       },
       {
         "frame": 74,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 89
       },
       {
         "frame": 105,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 130
       },
       {
         "frame": 141,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 158
       },
       {
         "frame": 171,
-        "fine_label": "far_ad_stroke_fh_slice_DM_-_in"
+        "label": "far_ad_stroke_fh_slice_DM_-_in"
       },
       {
         "frame": 202
       },
       {
         "frame": 211,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 229
       },
       {
         "frame": 241,
-        "fine_label": "far_deuce_stroke_bh_lob_DM_-_forced-err"
+        "label": "far_deuce_stroke_bh_lob_DM_-_forced-err"
       }
     ],
     "check": "NA",
@@ -74,18 +74,18 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 29,
-        "fine_label": "far_middle_return_fh_-_CC_-_in"
+        "label": "far_middle_return_fh_-_CC_-_in"
       },
       {
         "frame": 60
       },
       {
         "frame": 71,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_winner"
+        "label": "near_ad_stroke_bh_-_DL_-_winner"
       }
     ],
     "check": "NA",
@@ -107,32 +107,32 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 41,
-        "fine_label": "far_middle_return_bh_-_CC_-_in"
+        "label": "far_middle_return_bh_-_CC_-_in"
       },
       {
         "frame": 76
       },
       {
         "frame": 84,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 105
       },
       {
         "frame": 120,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 145
       },
       {
         "frame": 157,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_winner"
+        "label": "near_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 174
@@ -157,42 +157,42 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 20
       },
       {
         "frame": 29,
-        "fine_label": "far_middle_return_fh_-_DM_-_in"
+        "label": "far_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 50
       },
       {
         "frame": 61,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 79
       },
       {
         "frame": 92,
-        "fine_label": "far_deuce_stroke_fh_-_DM_-_in"
+        "label": "far_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 130
       },
       {
         "frame": 140,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 151
       },
       {
         "frame": 172,
-        "fine_label": "far_ad_stroke_bh_slice_na_-_forced-err"
+        "label": "far_ad_stroke_bh_slice_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -214,7 +214,7 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_deuce_serve_-_-_W_-_unforced-err"
+        "label": "near_deuce_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -236,98 +236,98 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 30
       },
       {
         "frame": 46,
-        "fine_label": "far_deuce_return_fh_-_DM_-_in"
+        "label": "far_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 69
       },
       {
         "frame": 79,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 104
       },
       {
         "frame": 112,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 134
       },
       {
         "frame": 143,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 165
       },
       {
         "frame": 175,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 195
       },
       {
         "frame": 209,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 230
       },
       {
         "frame": 245,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 269
       },
       {
         "frame": 277,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 301
       },
       {
         "frame": 307,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 325
       },
       {
         "frame": 338,
-        "fine_label": "near_ad_stroke_fh_-_DL_-_in"
+        "label": "near_ad_stroke_fh_-_DL_-_in"
       },
       {
         "frame": 361
       },
       {
         "frame": 370,
-        "fine_label": "far_deuce_stroke_fh_-_DM_-_in"
+        "label": "far_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 392
       },
       {
         "frame": 405,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 427
       },
       {
         "frame": 434,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_DM_-_unforced-err"
       },
       {
         "frame": 460
@@ -352,7 +352,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "near_ad_serve_-_-_T_-_unforced-err"
+        "label": "near_ad_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 26
@@ -377,35 +377,35 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "near_ad_serve_-_-_B_-_in"
+        "label": "near_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 25
       },
       {
         "frame": 34,
-        "fine_label": "far_ad_return_fh_-_IO_-_in"
+        "label": "far_ad_return_fh_-_IO_-_in"
       },
       {
         "frame": 55
       },
       {
         "frame": 61,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 84
       },
       {
         "frame": 93,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 113
       },
       {
         "frame": 124,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_unforced-err"
+        "label": "near_deuce_stroke_bh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -427,7 +427,7 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_deuce_serve_-_-_W_-_winner"
+        "label": "near_deuce_serve_-_-_W_-_winner"
       }
     ],
     "check": "NA",
@@ -449,60 +449,60 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_ad_serve_-_-_B_-_in"
+        "label": "near_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 29,
-        "fine_label": "far_ad_return_fh_-_DM_-_in"
+        "label": "far_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 52
       },
       {
         "frame": 64,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 85
       },
       {
         "frame": 95,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 115
       },
       {
         "frame": 125,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 151
       },
       {
         "frame": 159,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 181
       },
       {
         "frame": 191,
-        "fine_label": "near_deuce_stroke_bh_slice_DM_-_in"
+        "label": "near_deuce_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 226
       },
       {
         "frame": 234,
-        "fine_label": "far_middle_stroke_bh_drop_IO_-_in"
+        "label": "far_middle_stroke_bh_drop_IO_-_in"
       },
       {
         "frame": 268
       },
       {
         "frame": 289,
-        "fine_label": "near_deuce_stroke_bh_slice_na_-_forced-err"
+        "label": "near_deuce_stroke_bh_slice_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -524,42 +524,42 @@
     "events": [
       {
         "frame": 60,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 71
       },
       {
         "frame": 80,
-        "fine_label": "far_deuce_return_fh_-_CC_-_in"
+        "label": "far_deuce_return_fh_-_CC_-_in"
       },
       {
         "frame": 118
       },
       {
         "frame": 126,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_in"
+        "label": "near_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 146
       },
       {
         "frame": 161,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 182
       },
       {
         "frame": 197,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 223
       },
       {
         "frame": 230,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_DM_-_unforced-err"
       },
       {
         "frame": 255
@@ -584,21 +584,21 @@
     "events": [
       {
         "frame": 7,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 16
       },
       {
         "frame": 26,
-        "fine_label": "far_middle_return_bh_-_DM_-_in"
+        "label": "far_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 54
       },
       {
         "frame": 71,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_winner"
+        "label": "near_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 88
@@ -623,56 +623,56 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 19
       },
       {
         "frame": 31,
-        "fine_label": "near_middle_return_bh_-_DM_-_in"
+        "label": "near_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 57
       },
       {
         "frame": 67,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 83
       },
       {
         "frame": 93,
-        "fine_label": "near_deuce_stroke_bh_-_DL_-_in"
+        "label": "near_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 117
       },
       {
         "frame": 128,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 158
       },
       {
         "frame": 172,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 192
       },
       {
         "frame": 201,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 225
       },
       {
         "frame": 229,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_winner"
+        "label": "near_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 254
@@ -697,7 +697,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 21
@@ -722,56 +722,56 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "far_ad_serve_-_-_B_-_in"
+        "label": "far_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 40,
-        "fine_label": "near_ad_return_fh_-_CC_-_in"
+        "label": "near_ad_return_fh_-_CC_-_in"
       },
       {
         "frame": 64
       },
       {
         "frame": 75,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 93
       },
       {
         "frame": 106,
-        "fine_label": "near_deuce_stroke_bh_-_DL_-_in"
+        "label": "near_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 127
       },
       {
         "frame": 140,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 158
       },
       {
         "frame": 172,
-        "fine_label": "near_ad_stroke_fh_slice_CC_-_in"
+        "label": "near_ad_stroke_fh_slice_CC_-_in"
       },
       {
         "frame": 216
       },
       {
         "frame": 229,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 255
       },
       {
         "frame": 269,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_unforced-err"
+        "label": "near_deuce_stroke_bh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -793,7 +793,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_deuce_serve_-_-_T_-_unforced-err"
+        "label": "far_deuce_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 19
@@ -818,71 +818,71 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 43,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 68
       },
       {
         "frame": 75,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 92
       },
       {
         "frame": 111,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 139
       },
       {
         "frame": 152,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 169
       },
       {
         "frame": 177,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 206
       },
       {
         "frame": 222,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 236
       },
       {
         "frame": 245,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_in"
+        "label": "near_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 268,
-        "fine_label": "far_deuce_stroke_fh_volley_CC_-_in"
+        "label": "far_deuce_stroke_fh_volley_CC_-_in"
       },
       {
         "frame": 294
       },
       {
         "frame": 314,
-        "fine_label": "near_deuce_stroke_bh_slice_DL_-_in"
+        "label": "near_deuce_stroke_bh_slice_DL_-_in"
       },
       {
         "frame": 333,
-        "fine_label": "far_ad_stroke_bh_volley_CC_-_winner"
+        "label": "far_ad_stroke_bh_volley_CC_-_winner"
       },
       {
         "frame": 349
@@ -907,14 +907,14 @@
     "events": [
       {
         "frame": 5,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 14
       },
       {
         "frame": 28,
-        "fine_label": "near_middle_return_bh_-_IO_-_forced-err"
+        "label": "near_middle_return_bh_-_IO_-_forced-err"
       },
       {
         "frame": 58
@@ -939,21 +939,21 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 20
       },
       {
         "frame": 31,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 56
       },
       {
         "frame": 71,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_IO_-_unforced-err"
       },
       {
         "frame": 91
@@ -978,28 +978,28 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 35,
-        "fine_label": "near_middle_return_bh_-_CC_-_in"
+        "label": "near_middle_return_bh_-_CC_-_in"
       },
       {
         "frame": 61
       },
       {
         "frame": 80,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 102
       },
       {
         "frame": 119,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_forced-err"
+        "label": "near_deuce_stroke_bh_-_CC_-_forced-err"
       }
     ],
     "check": "NA",
@@ -1021,70 +1021,70 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 19
       },
       {
         "frame": 30,
-        "fine_label": "near_middle_return_bh_-_IO_-_in"
+        "label": "near_middle_return_bh_-_IO_-_in"
       },
       {
         "frame": 60
       },
       {
         "frame": 70,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 91
       },
       {
         "frame": 102,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 122
       },
       {
         "frame": 138,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 156
       },
       {
         "frame": 167,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 188
       },
       {
         "frame": 199,
-        "fine_label": "far_deuce_stroke_bh_-_DL_-_in"
+        "label": "far_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 221
       },
       {
         "frame": 232,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 258
       },
       {
         "frame": 269,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 291
       },
       {
         "frame": 304,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_unforced-err"
+        "label": "near_ad_stroke_bh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1106,35 +1106,35 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 20
       },
       {
         "frame": 33,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 58
       },
       {
         "frame": 67,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 89
       },
       {
         "frame": 101,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 126
       },
       {
         "frame": 135,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_IO_-_unforced-err"
       },
       {
         "frame": 153
@@ -1159,84 +1159,84 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 29
       },
       {
         "frame": 38,
-        "fine_label": "near_middle_return_bh_-_DM_-_in"
+        "label": "near_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 65
       },
       {
         "frame": 74,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 102
       },
       {
         "frame": 110,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_in"
+        "label": "near_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 134
       },
       {
         "frame": 143,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 171
       },
       {
         "frame": 184,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 203
       },
       {
         "frame": 220,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 247
       },
       {
         "frame": 253,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 273
       },
       {
         "frame": 284,
-        "fine_label": "far_middle_stroke_bh_slice_DM_-_in"
+        "label": "far_middle_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 319
       },
       {
         "frame": 328,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 348
       },
       {
         "frame": 358,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 384
       },
       {
         "frame": 395,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_unforced-err"
+        "label": "near_ad_stroke_bh_-_CC_-_unforced-err"
       },
       {
         "frame": 417
@@ -1261,7 +1261,7 @@
     "events": [
       {
         "frame": 20,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1283,84 +1283,84 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 23
       },
       {
         "frame": 34,
-        "fine_label": "near_ad_return_bh_-_DM_-_in"
+        "label": "near_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 57
       },
       {
         "frame": 61,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 89
       },
       {
         "frame": 99,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 115
       },
       {
         "frame": 126,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 153
       },
       {
         "frame": 164,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 183
       },
       {
         "frame": 195,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 217
       },
       {
         "frame": 227,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 243
       },
       {
         "frame": 254,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 281
       },
       {
         "frame": 288,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 308
       },
       {
         "frame": 321,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 344
       },
       {
         "frame": 350,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_unforced-err"
+        "label": "near_ad_stroke_bh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1382,49 +1382,49 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 31,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 53
       },
       {
         "frame": 56,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 86
       },
       {
         "frame": 96,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 117
       },
       {
         "frame": 132,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 155
       },
       {
         "frame": 166,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 186
       },
       {
         "frame": 195,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_unforced-err"
+        "label": "far_deuce_stroke_bh_-_DM_-_unforced-err"
       },
       {
         "frame": 225
@@ -1449,42 +1449,42 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 28,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 55
       },
       {
         "frame": 67,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 92
       },
       {
         "frame": 97,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 119
       },
       {
         "frame": 127,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 148
       },
       {
         "frame": 166,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_forced-err"
+        "label": "near_deuce_stroke_fh_-_CC_-_forced-err"
       }
     ],
     "check": "NA",
@@ -1506,7 +1506,7 @@
     "events": [
       {
         "frame": 3,
-        "fine_label": "near_ad_serve_-_-_W_-_unforced-err"
+        "label": "near_ad_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1528,35 +1528,35 @@
     "events": [
       {
         "frame": 25,
-        "fine_label": "near_ad_serve_-_-_B_-_in"
+        "label": "near_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 39
       },
       {
         "frame": 54,
-        "fine_label": "far_ad_return_fh_-_CC_-_in"
+        "label": "far_ad_return_fh_-_CC_-_in"
       },
       {
         "frame": 76
       },
       {
         "frame": 91,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 108
       },
       {
         "frame": 122,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 145
       },
       {
         "frame": 155,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_unforced-err"
+        "label": "near_middle_stroke_bh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1578,21 +1578,21 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 17
       },
       {
         "frame": 35,
-        "fine_label": "far_deuce_return_bh_-_CC_-_in"
+        "label": "far_deuce_return_bh_-_CC_-_in"
       },
       {
         "frame": 64
       },
       {
         "frame": 71,
-        "fine_label": "near_deuce_stroke_fh_-_DL_-_unforced-err"
+        "label": "near_deuce_stroke_fh_-_DL_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1614,21 +1614,21 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 36,
-        "fine_label": "far_middle_return_bh_-_CC_-_in"
+        "label": "far_middle_return_bh_-_CC_-_in"
       },
       {
         "frame": 64
       },
       {
         "frame": 81,
-        "fine_label": "near_deuce_stroke_fh_-_DL_-_in"
+        "label": "near_deuce_stroke_fh_-_DL_-_in"
       },
       {
         "frame": 95
@@ -1653,7 +1653,7 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "near_deuce_serve_-_-_B_-_unforced-err"
+        "label": "near_deuce_serve_-_-_B_-_unforced-err"
       },
       {
         "frame": 24
@@ -1678,42 +1678,42 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 37,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 67
       },
       {
         "frame": 80,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 99
       },
       {
         "frame": 110,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 136
       },
       {
         "frame": 148,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 166
       },
       {
         "frame": 178,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_IO_-_unforced-err"
       },
       {
         "frame": 204
@@ -1738,84 +1738,84 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 44,
-        "fine_label": "far_middle_return_bh_-_IO_-_in"
+        "label": "far_middle_return_bh_-_IO_-_in"
       },
       {
         "frame": 71
       },
       {
         "frame": 86,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 101
       },
       {
         "frame": 110,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 133
       },
       {
         "frame": 141,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 163
       },
       {
         "frame": 174,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 196
       },
       {
         "frame": 202,
-        "fine_label": "near_deuce_stroke_fh_-_DM_-_in"
+        "label": "near_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 224
       },
       {
         "frame": 239,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_in"
+        "label": "far_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 256
       },
       {
         "frame": 268,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 293
       },
       {
         "frame": 301,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 317
       },
       {
         "frame": 330,
-        "fine_label": "near_deuce_stroke_fh_slice_DM_-_in"
+        "label": "near_deuce_stroke_fh_slice_DM_-_in"
       },
       {
         "frame": 363
       },
       {
         "frame": 371,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_winner"
+        "label": "far_middle_stroke_fh_-_CC_-_winner"
       },
       {
         "frame": 387
@@ -1840,42 +1840,42 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 45,
-        "fine_label": "far_ad_return_fh_-_CC_-_in"
+        "label": "far_ad_return_fh_-_CC_-_in"
       },
       {
         "frame": 71
       },
       {
         "frame": 86,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 106
       },
       {
         "frame": 116,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 144
       },
       {
         "frame": 148,
-        "fine_label": "near_deuce_stroke_fh_-_DM_-_in"
+        "label": "near_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 174
       },
       {
         "frame": 181,
-        "fine_label": "far_middle_stroke_fh_drop_IO_-_unforced-err"
+        "label": "far_middle_stroke_fh_drop_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -1897,56 +1897,56 @@
     "events": [
       {
         "frame": 93,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 103
       },
       {
         "frame": 112,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 141
       },
       {
         "frame": 152,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 169
       },
       {
         "frame": 183,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 207
       },
       {
         "frame": 219,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 240
       },
       {
         "frame": 247,
-        "fine_label": "far_deuce_stroke_fh_slice_DM_-_in"
+        "label": "far_deuce_stroke_fh_slice_DM_-_in"
       },
       {
         "frame": 282
       },
       {
         "frame": 303,
-        "fine_label": "near_middle_stroke_fh_volley_IO_-_in"
+        "label": "near_middle_stroke_fh_volley_IO_-_in"
       },
       {
         "frame": 329
       },
       {
         "frame": 347,
-        "fine_label": "far_deuce_stroke_fh_lob_DL_-_forced-err"
+        "label": "far_deuce_stroke_fh_lob_DL_-_forced-err"
       }
     ],
     "check": "NA",
@@ -1968,35 +1968,35 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 34,
-        "fine_label": "far_middle_return_fh_-_DM_-_in"
+        "label": "far_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 54
       },
       {
         "frame": 66,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 85
       },
       {
         "frame": 93,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 119
       },
       {
         "frame": 134,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_winner"
+        "label": "near_middle_stroke_fh_-_CC_-_winner"
       },
       {
         "frame": 153
@@ -2021,28 +2021,28 @@
     "events": [
       {
         "frame": 24,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 33
       },
       {
         "frame": 43,
-        "fine_label": "far_deuce_return_fh_-_CC_-_in"
+        "label": "far_deuce_return_fh_-_CC_-_in"
       },
       {
         "frame": 76
       },
       {
         "frame": 94,
-        "fine_label": "near_deuce_stroke_bh_-_DL_-_in"
+        "label": "near_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 108
       },
       {
         "frame": 119,
-        "fine_label": "far_ad_stroke_bh_-_na_-_forced-err"
+        "label": "far_ad_stroke_bh_-_na_-_forced-err"
       },
       {
         "frame": 152
@@ -2067,7 +2067,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_ad_serve_-_-_W_-_winner"
+        "label": "near_ad_serve_-_-_W_-_winner"
       },
       {
         "frame": 21
@@ -2092,28 +2092,28 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 26
       },
       {
         "frame": 42,
-        "fine_label": "near_deuce_return_bh_-_DL_-_in"
+        "label": "near_deuce_return_bh_-_DL_-_in"
       },
       {
         "frame": 70
       },
       {
         "frame": 77,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 103
       },
       {
         "frame": 113,
-        "fine_label": "near_deuce_stroke_bh_slice_DM_-_in"
+        "label": "near_deuce_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 158
@@ -2138,7 +2138,7 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "far_ad_serve_-_-_W_-_unforced-err"
+        "label": "far_ad_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2160,21 +2160,21 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 27
       },
       {
         "frame": 47,
-        "fine_label": "near_ad_return_fh_-_DM_-_in"
+        "label": "near_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 68
       },
       {
         "frame": 81,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_IO_-_unforced-err"
       },
       {
         "frame": 103
@@ -2199,42 +2199,42 @@
     "events": [
       {
         "frame": 25,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 34
       },
       {
         "frame": 46,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 86
       },
       {
         "frame": 95,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 117
       },
       {
         "frame": 129,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_in"
+        "label": "near_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 169
       },
       {
         "frame": 185,
-        "fine_label": "far_deuce_stroke_fh_-_DL_-_in"
+        "label": "far_deuce_stroke_fh_-_DL_-_in"
       },
       {
         "frame": 203
       },
       {
         "frame": 217,
-        "fine_label": "near_ad_stroke_fh_lob_CC_-_in"
+        "label": "near_ad_stroke_fh_lob_CC_-_in"
       }
     ],
     "check": "NA",
@@ -2256,7 +2256,7 @@
     "events": [
       {
         "frame": 74,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       }
     ],
     "check": "NA",
@@ -2278,7 +2278,7 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "far_ad_serve_-_-_W_-_unforced-err"
+        "label": "far_ad_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2300,21 +2300,21 @@
     "events": [
       {
         "frame": 27,
-        "fine_label": "far_ad_serve_-_-_B_-_in"
+        "label": "far_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 40
       },
       {
         "frame": 57,
-        "fine_label": "near_ad_return_fh_-_CC_-_in"
+        "label": "near_ad_return_fh_-_CC_-_in"
       },
       {
         "frame": 83
       },
       {
         "frame": 88,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_unforced-err"
+        "label": "far_ad_stroke_bh_-_DL_-_unforced-err"
       },
       {
         "frame": 113
@@ -2339,56 +2339,56 @@
     "events": [
       {
         "frame": 25,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 35
       },
       {
         "frame": 52,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 79
       },
       {
         "frame": 89,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 104
       },
       {
         "frame": 118,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 145
       },
       {
         "frame": 152,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 177
       },
       {
         "frame": 189,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 206
       },
       {
         "frame": 216,
-        "fine_label": "far_ad_stroke_bh_slice_DL_-_in"
+        "label": "far_ad_stroke_bh_slice_DL_-_in"
       },
       {
         "frame": 244
       },
       {
         "frame": 253,
-        "fine_label": "near_deuce_stroke_fh_-_II_-_unforced-err"
+        "label": "near_deuce_stroke_fh_-_II_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2410,21 +2410,21 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 42,
-        "fine_label": "near_middle_return_bh_slice_DM_-_in"
+        "label": "near_middle_return_bh_slice_DM_-_in"
       },
       {
         "frame": 72
       },
       {
         "frame": 81,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_winner"
+        "label": "far_middle_stroke_fh_-_IO_-_winner"
       }
     ],
     "check": "NA",
@@ -2446,14 +2446,14 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 30,
-        "fine_label": "near_ad_return_fh_-_CC_-_forced-err"
+        "label": "near_ad_return_fh_-_CC_-_forced-err"
       },
       {
         "frame": 76
@@ -2478,21 +2478,21 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 36,
-        "fine_label": "near_middle_return_bh_slice_DM_-_in"
+        "label": "near_middle_return_bh_slice_DM_-_in"
       },
       {
         "frame": 73
       },
       {
         "frame": 90,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_winner"
+        "label": "far_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 104
@@ -2517,42 +2517,42 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 19
       },
       {
         "frame": 29,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 57
       },
       {
         "frame": 60,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 85
       },
       {
         "frame": 98,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 115
       },
       {
         "frame": 129,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 153
       },
       {
         "frame": 168,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_unforced-err"
+        "label": "near_middle_stroke_fh_-_CC_-_unforced-err"
       },
       {
         "frame": 184
@@ -2577,7 +2577,7 @@
     "events": [
       {
         "frame": 20,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2599,14 +2599,14 @@
     "events": [
       {
         "frame": 22,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 36
       },
       {
         "frame": 47,
-        "fine_label": "near_ad_return_bh_-_CC_-_forced-err"
+        "label": "near_ad_return_bh_-_CC_-_forced-err"
       },
       {
         "frame": 72
@@ -2631,7 +2631,7 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_deuce_serve_-_-_W_-_winner"
+        "label": "far_deuce_serve_-_-_W_-_winner"
       },
       {
         "frame": 19
@@ -2656,28 +2656,28 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 29
       },
       {
         "frame": 37,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 65
       },
       {
         "frame": 79,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 93
       },
       {
         "frame": 102,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 140
@@ -2702,32 +2702,32 @@
     "events": [
       {
         "frame": 5,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 16
       },
       {
         "frame": 33,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 67
       },
       {
         "frame": 80,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 105,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 138
       },
       {
         "frame": 154,
-        "fine_label": "near_middle_stroke_bh_drop_IO_-_in"
+        "label": "near_middle_stroke_bh_drop_IO_-_in"
       }
     ],
     "check": "NA",
@@ -2749,21 +2749,21 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 35,
-        "fine_label": "far_deuce_return_bh_-_CC_-_in"
+        "label": "far_deuce_return_bh_-_CC_-_in"
       },
       {
         "frame": 60
       },
       {
         "frame": 74,
-        "fine_label": "near_deuce_stroke_fh_-_DL_-_unforced-err"
+        "label": "near_deuce_stroke_fh_-_DL_-_unforced-err"
       },
       {
         "frame": 94
@@ -2788,7 +2788,7 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "near_ad_serve_-_-_W_-_unforced-err"
+        "label": "near_ad_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2810,42 +2810,42 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 38,
-        "fine_label": "far_middle_return_bh_-_CC_-_in"
+        "label": "far_middle_return_bh_-_CC_-_in"
       },
       {
         "frame": 72
       },
       {
         "frame": 84,
-        "fine_label": "near_deuce_stroke_fh_-_DM_-_in"
+        "label": "near_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 99
       },
       {
         "frame": 109,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 139
       },
       {
         "frame": 150,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 165
       },
       {
         "frame": 177,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_unforced-err"
+        "label": "far_ad_stroke_fh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2867,67 +2867,67 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 30,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 59
       },
       {
         "frame": 67,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 108,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 125
       },
       {
         "frame": 143,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 164
       },
       {
         "frame": 174,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 194
       },
       {
         "frame": 205,
-        "fine_label": "near_deuce_stroke_fh_-_DM_-_in"
+        "label": "near_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 225
       },
       {
         "frame": 233,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 252
       },
       {
         "frame": 271,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 294
       },
       {
         "frame": 309,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -2949,21 +2949,21 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 33,
-        "fine_label": "far_deuce_return_fh_slice_DM_-_in"
+        "label": "far_deuce_return_fh_slice_DM_-_in"
       },
       {
         "frame": 58
       },
       {
         "frame": 72,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 87
@@ -2988,7 +2988,7 @@
     "events": [
       {
         "frame": 86,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       }
     ],
     "check": "NA",
@@ -3010,21 +3010,21 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 27,
-        "fine_label": "far_middle_return_fh_-_IO_-_in"
+        "label": "far_middle_return_fh_-_IO_-_in"
       },
       {
         "frame": 53
       },
       {
         "frame": 60,
-        "fine_label": "near_ad_stroke_fh_-_na_-_forced-err"
+        "label": "near_ad_stroke_fh_-_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -3049,35 +3049,35 @@
       },
       {
         "frame": 28,
-        "fine_label": "far_deuce_return_fh_-_DM_-_in"
+        "label": "far_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 54
       },
       {
         "frame": 63,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 91
       },
       {
         "frame": 98,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 119
       },
       {
         "frame": 132,
-        "fine_label": "near_ad_stroke_fh_slice_DL_-_in"
+        "label": "near_ad_stroke_fh_slice_DL_-_in"
       },
       {
         "frame": 158
       },
       {
         "frame": 176,
-        "fine_label": "far_deuce_stroke_bh_slice_IO_-_unforced-err"
+        "label": "far_deuce_stroke_bh_slice_IO_-_unforced-err"
       },
       {
         "frame": 194
@@ -3102,42 +3102,42 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 49,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 73
       },
       {
         "frame": 82,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 98
       },
       {
         "frame": 111,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 142
       },
       {
         "frame": 147,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 170
       },
       {
         "frame": 178,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_unforced-err"
+        "label": "near_deuce_stroke_bh_-_CC_-_unforced-err"
       },
       {
         "frame": 202
@@ -3162,7 +3162,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_deuce_serve_-_-_T_-_winner"
+        "label": "far_deuce_serve_-_-_T_-_winner"
       },
       {
         "frame": 19
@@ -3187,60 +3187,60 @@
     "events": [
       {
         "frame": 24,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 33
       },
       {
         "frame": 45,
-        "fine_label": "near_middle_return_bh_-_DM_-_in"
+        "label": "near_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 65
       },
       {
         "frame": 81,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 100
       },
       {
         "frame": 115,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 145
       },
       {
         "frame": 153,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 172
       },
       {
         "frame": 187,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 213
       },
       {
         "frame": 220,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 237
       },
       {
         "frame": 249,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 283,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_IO_-_unforced-err"
       },
       {
         "frame": 305
@@ -3265,7 +3265,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_deuce_serve_-_-_T_-_winner"
+        "label": "far_deuce_serve_-_-_T_-_winner"
       },
       {
         "frame": 18
@@ -3290,7 +3290,7 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -3312,7 +3312,7 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "far_ad_serve_-_-_T_-_winner"
+        "label": "far_ad_serve_-_-_T_-_winner"
       },
       {
         "frame": 29
@@ -3337,14 +3337,14 @@
     "events": [
       {
         "frame": 31,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 40
       },
       {
         "frame": 50,
-        "fine_label": "near_middle_return_bh_-_DM_-_unforced-err"
+        "label": "near_middle_return_bh_-_DM_-_unforced-err"
       },
       {
         "frame": 78
@@ -3369,7 +3369,7 @@
     "events": [
       {
         "frame": 71,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 82
@@ -3394,7 +3394,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_deuce_serve_-_-_W_-_winner"
+        "label": "far_deuce_serve_-_-_W_-_winner"
       },
       {
         "frame": 20
@@ -3419,35 +3419,35 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "far_ad_serve_-_-_B_-_in"
+        "label": "far_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 25
       },
       {
         "frame": 35,
-        "fine_label": "near_ad_return_bh_-_DM_-_in"
+        "label": "near_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 61
       },
       {
         "frame": 68,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 91
       },
       {
         "frame": 101,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 127
       },
       {
         "frame": 136,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -3469,28 +3469,28 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 23
       },
       {
         "frame": 32,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 55
       },
       {
         "frame": 66,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 86
       },
       {
         "frame": 99,
-        "fine_label": "near_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "near_middle_stroke_bh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -3512,7 +3512,7 @@
     "events": [
       {
         "frame": 73,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 84
@@ -3537,42 +3537,42 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 23
       },
       {
         "frame": 37,
-        "fine_label": "near_ad_return_bh_-_DM_-_in"
+        "label": "near_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 56
       },
       {
         "frame": 66,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 91
       },
       {
         "frame": 100,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 118
       },
       {
         "frame": 132,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 158
       },
       {
         "frame": 166,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_unforced-err"
+        "label": "near_middle_stroke_fh_-_DM_-_unforced-err"
       },
       {
         "frame": 191
@@ -3597,21 +3597,21 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 36,
-        "fine_label": "far_middle_return_fh_-_CC_-_in"
+        "label": "far_middle_return_fh_-_CC_-_in"
       },
       {
         "frame": 65
       },
       {
         "frame": 80,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_winner"
+        "label": "near_ad_stroke_bh_-_CC_-_winner"
       },
       {
         "frame": 113
@@ -3636,18 +3636,18 @@
     "events": [
       {
         "frame": 18,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 40,
-        "fine_label": "far_middle_return_fh_-_DM_-_in"
+        "label": "far_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 66
       },
       {
         "frame": 75,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_unforced-err"
+        "label": "near_middle_stroke_fh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -3672,21 +3672,21 @@
       },
       {
         "frame": 54,
-        "fine_label": "far_deuce_return_bh_-_DL_-_in"
+        "label": "far_deuce_return_bh_-_DL_-_in"
       },
       {
         "frame": 82
       },
       {
         "frame": 91,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 109
       },
       {
         "frame": 122,
-        "fine_label": "far_ad_stroke_fh_-_DL_-_unforced-err"
+        "label": "far_ad_stroke_fh_-_DL_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -3708,11 +3708,11 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 29,
-        "fine_label": "far_deuce_return_bh_-_na_-_forced-err"
+        "label": "far_deuce_return_bh_-_na_-_forced-err"
       },
       {
         "frame": 60
@@ -3737,7 +3737,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       }
     ],
     "check": "NA",
@@ -3759,14 +3759,14 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 36,
-        "fine_label": "far_deuce_return_fh_-_na_-_forced-err"
+        "label": "far_deuce_return_fh_-_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -3788,14 +3788,14 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 36,
-        "fine_label": "near_deuce_return_bh_-_CC_-_forced-err"
+        "label": "near_deuce_return_bh_-_CC_-_forced-err"
       },
       {
         "frame": 75
@@ -3820,98 +3820,98 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 45,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 69
       },
       {
         "frame": 78,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_in"
+        "label": "far_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 100
       },
       {
         "frame": 114,
-        "fine_label": "near_deuce_stroke_bh_-_DL_-_in"
+        "label": "near_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 144
       },
       {
         "frame": 150,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 175
       },
       {
         "frame": 182,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 216
       },
       {
         "frame": 225,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 250
       },
       {
         "frame": 263,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 285
       },
       {
         "frame": 297,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 317
       },
       {
         "frame": 328,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 346
       },
       {
         "frame": 357,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 379
       },
       {
         "frame": 392,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 408
       },
       {
         "frame": 423,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 447
       },
       {
         "frame": 462,
-        "fine_label": "near_ad_stroke_fh_-_DL_-_forced-err"
+        "label": "near_ad_stroke_fh_-_DL_-_forced-err"
       },
       {
         "frame": 482
@@ -3936,21 +3936,21 @@
     "events": [
       {
         "frame": 13,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 39,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 59
       },
       {
         "frame": 70,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -3972,7 +3972,7 @@
     "events": [
       {
         "frame": 24,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 34
@@ -3997,21 +3997,21 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 31
       },
       {
         "frame": 52,
-        "fine_label": "near_ad_return_fh_-_DM_-_in"
+        "label": "near_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 86
       },
       {
         "frame": 96,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -4033,77 +4033,77 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 27
       },
       {
         "frame": 41,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 64
       },
       {
         "frame": 77,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 96
       },
       {
         "frame": 106,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 150
       },
       {
         "frame": 158,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 184
       },
       {
         "frame": 202,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 225
       },
       {
         "frame": 236,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 267
       },
       {
         "frame": 277,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 292
       },
       {
         "frame": 304,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 324
       },
       {
         "frame": 339,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 359
       },
       {
         "frame": 372,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_unforced-err"
+        "label": "far_ad_stroke_bh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -4125,7 +4125,7 @@
     "events": [
       {
         "frame": 24,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 35
@@ -4150,42 +4150,42 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 47,
-        "fine_label": "near_ad_return_fh_-_CC_-_in"
+        "label": "near_ad_return_fh_-_CC_-_in"
       },
       {
         "frame": 80
       },
       {
         "frame": 91,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 112
       },
       {
         "frame": 123,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 153
       },
       {
         "frame": 164,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 180
       },
       {
         "frame": 194,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 225
@@ -4213,7 +4213,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_ad_serve_-_-_B_-_in"
+        "label": "far_ad_serve_-_-_B_-_in"
       }
     ],
     "check": "NA",
@@ -4235,63 +4235,63 @@
     "events": [
       {
         "frame": 29,
-        "fine_label": "far_ad_serve_-_-_B_-_in"
+        "label": "far_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 41
       },
       {
         "frame": 54,
-        "fine_label": "near_ad_return_bh_-_DM_-_in"
+        "label": "near_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 77
       },
       {
         "frame": 82,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 104
       },
       {
         "frame": 119,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 141
       },
       {
         "frame": 152,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 187
       },
       {
         "frame": 196,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 217
       },
       {
         "frame": 228,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 248
       },
       {
         "frame": 258,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 282
       },
       {
         "frame": 288,
-        "fine_label": "far_ad_stroke_bh_slice_na_-_forced-err"
+        "label": "far_ad_stroke_bh_slice_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -4313,7 +4313,7 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       }
     ],
     "check": "NA",
@@ -4335,85 +4335,85 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 46,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 74
       },
       {
         "frame": 84,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 110
       },
       {
         "frame": 121,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 140
       },
       {
         "frame": 154,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 187
       },
       {
         "frame": 197,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 225,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 252
       },
       {
         "frame": 262,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 281
       },
       {
         "frame": 289,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 312
       },
       {
         "frame": 323,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 342
       },
       {
         "frame": 357,
-        "fine_label": "far_deuce_stroke_bh_lob_na_-_in"
+        "label": "far_deuce_stroke_bh_lob_na_-_in"
       },
       {
         "frame": 407,
-        "fine_label": "near_na_stroke_fh_volley_na_-_in"
+        "label": "near_na_stroke_fh_volley_na_-_in"
       },
       {
         "frame": 422
       },
       {
         "frame": 435,
-        "fine_label": "far_na_stroke_fh_-_na_-_forced-err"
+        "label": "far_na_stroke_fh_-_na_-_forced-err"
       },
       {
         "frame": 449
@@ -4438,7 +4438,7 @@
     "events": [
       {
         "frame": 41,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -4460,14 +4460,14 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_ad_serve_-_-_B_-_in"
+        "label": "far_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 23
       },
       {
         "frame": 34,
-        "fine_label": "near_ad_return_bh_-_DM_-_unforced-err"
+        "label": "near_ad_return_bh_-_DM_-_unforced-err"
       },
       {
         "frame": 63
@@ -4492,42 +4492,42 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 32,
-        "fine_label": "near_ad_return_bh_-_CC_-_in"
+        "label": "near_ad_return_bh_-_CC_-_in"
       },
       {
         "frame": 61
       },
       {
         "frame": 70,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 91
       },
       {
         "frame": 108,
-        "fine_label": "near_ad_stroke_bh_slice_DL_-_in"
+        "label": "near_ad_stroke_bh_slice_DL_-_in"
       },
       {
         "frame": 146
       },
       {
         "frame": 155,
-        "fine_label": "far_deuce_stroke_fh_-_II_-_in"
+        "label": "far_deuce_stroke_fh_-_II_-_in"
       },
       {
         "frame": 173
       },
       {
         "frame": 189,
-        "fine_label": "near_ad_stroke_bh_lob_na_-_forced-err"
+        "label": "near_ad_stroke_bh_lob_na_-_forced-err"
       },
       {
         "frame": 236
@@ -4552,64 +4552,64 @@
     "events": [
       {
         "frame": 7,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 29,
-        "fine_label": "far_middle_return_fh_-_DM_-_in"
+        "label": "far_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 55
       },
       {
         "frame": 67,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_in"
+        "label": "near_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 82
       },
       {
         "frame": 94,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 126,
-        "fine_label": "near_middle_stroke_bh_-_IO_-_in"
+        "label": "near_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 147
       },
       {
         "frame": 160,
-        "fine_label": "far_deuce_stroke_bh_-_DL_-_in"
+        "label": "far_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 187
       },
       {
         "frame": 192,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 215
       },
       {
         "frame": 227,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 245
       },
       {
         "frame": 256,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 275
       },
       {
         "frame": 288,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_unforced-err"
+        "label": "far_ad_stroke_fh_-_CC_-_unforced-err"
       },
       {
         "frame": 323
@@ -4634,32 +4634,32 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 28,
-        "fine_label": "far_ad_return_fh_-_DM_-_in"
+        "label": "far_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 56
       },
       {
         "frame": 62,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 83
       },
       {
         "frame": 100,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 123
       },
       {
         "frame": 129,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_unforced-err"
+        "label": "near_deuce_stroke_fh_-_CC_-_unforced-err"
       },
       {
         "frame": 157
@@ -4687,28 +4687,28 @@
       },
       {
         "frame": 41,
-        "fine_label": "far_ad_return_fh_-_DM_-_in"
+        "label": "far_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 68
       },
       {
         "frame": 77,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 96
       },
       {
         "frame": 114,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 143
       },
       {
         "frame": 152,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_unforced-err"
+        "label": "near_deuce_stroke_fh_-_CC_-_unforced-err"
       },
       {
         "frame": 171
@@ -4733,7 +4733,7 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "near_ad_serve_-_-_W_-_winner"
+        "label": "near_ad_serve_-_-_W_-_winner"
       }
     ],
     "check": "NA",
@@ -4755,14 +4755,14 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 38,
-        "fine_label": "far_deuce_return_bh_-_CC_-_unforced-err"
+        "label": "far_deuce_return_bh_-_CC_-_unforced-err"
       },
       {
         "frame": 69
@@ -4787,7 +4787,7 @@
     "events": [
       {
         "frame": 7,
-        "fine_label": "near_ad_serve_-_-_W_-_winner"
+        "label": "near_ad_serve_-_-_W_-_winner"
       }
     ],
     "check": "NA",
@@ -4809,56 +4809,56 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 25
       },
       {
         "frame": 36,
-        "fine_label": "far_deuce_return_bh_-_IO_-_in"
+        "label": "far_deuce_return_bh_-_IO_-_in"
       },
       {
         "frame": 60
       },
       {
         "frame": 64,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 91
       },
       {
         "frame": 101,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 116
       },
       {
         "frame": 129,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 157
       },
       {
         "frame": 164,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 183
       },
       {
         "frame": 195,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 218
       },
       {
         "frame": 227,
-        "fine_label": "far_middle_stroke_fh_-_na_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_na_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -4880,70 +4880,70 @@
     "events": [
       {
         "frame": 23,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 32
       },
       {
         "frame": 42,
-        "fine_label": "far_ad_return_bh_-_DM_-_in"
+        "label": "far_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 61
       },
       {
         "frame": 72,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 92
       },
       {
         "frame": 101,
-        "fine_label": "far_deuce_stroke_fh_slice_CC_-_in"
+        "label": "far_deuce_stroke_fh_slice_CC_-_in"
       },
       {
         "frame": 141
       },
       {
         "frame": 151,
-        "fine_label": "near_deuce_stroke_fh_-_DM_-_in"
+        "label": "near_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 171
       },
       {
         "frame": 182,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 206
       },
       {
         "frame": 219,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 237
       },
       {
         "frame": 253,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 300
       },
       {
         "frame": 311,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 323
       },
       {
         "frame": 338,
-        "fine_label": "far_deuce_stroke_fh_lob_na_-_winner"
+        "label": "far_deuce_stroke_fh_lob_na_-_winner"
       }
     ],
     "check": "NA",
@@ -4965,7 +4965,7 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "near_deuce_serve_-_-_B_-_unforced-err"
+        "label": "near_deuce_serve_-_-_B_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -4987,7 +4987,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "near_deuce_serve_-_-_W_-_unforced-err"
+        "label": "near_deuce_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -5009,98 +5009,98 @@
     "events": [
       {
         "frame": 90,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 100
       },
       {
         "frame": 110,
-        "fine_label": "far_ad_return_bh_-_DL_-_in"
+        "label": "far_ad_return_bh_-_DL_-_in"
       },
       {
         "frame": 144
       },
       {
         "frame": 153,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_in"
+        "label": "near_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 172
       },
       {
         "frame": 182,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 201
       },
       {
         "frame": 218,
-        "fine_label": "near_deuce_stroke_bh_slice_DL_-_in"
+        "label": "near_deuce_stroke_bh_slice_DL_-_in"
       },
       {
         "frame": 248
       },
       {
         "frame": 257,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 280
       },
       {
         "frame": 287,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 321
       },
       {
         "frame": 330,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 349
       },
       {
         "frame": 366,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 391
       },
       {
         "frame": 398,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_in"
+        "label": "far_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 417
       },
       {
         "frame": 432,
-        "fine_label": "near_deuce_stroke_bh_slice_DM_-_in"
+        "label": "near_deuce_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 467
       },
       {
         "frame": 482,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 503
       },
       {
         "frame": 512,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 543
       },
       {
         "frame": 556,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_winner"
+        "label": "far_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 569
@@ -5125,28 +5125,28 @@
     "events": [
       {
         "frame": 3,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 14
       },
       {
         "frame": 30,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 54
       },
       {
         "frame": 65,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 82
       },
       {
         "frame": 101,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 145
@@ -5171,42 +5171,42 @@
     "events": [
       {
         "frame": 7,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 34,
-        "fine_label": "near_deuce_return_bh_-_CC_-_in"
+        "label": "near_deuce_return_bh_-_CC_-_in"
       },
       {
         "frame": 58
       },
       {
         "frame": 67,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 88
       },
       {
         "frame": 98,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 128
       },
       {
         "frame": 133,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 153
       },
       {
         "frame": 163,
-        "fine_label": "near_middle_stroke_bh_slice_DM_-_unforced-err"
+        "label": "near_middle_stroke_bh_slice_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -5228,42 +5228,42 @@
     "events": [
       {
         "frame": 5,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 14
       },
       {
         "frame": 29,
-        "fine_label": "near_middle_return_bh_-_DM_-_in"
+        "label": "near_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 55
       },
       {
         "frame": 67,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 81
       },
       {
         "frame": 96,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 128
       },
       {
         "frame": 137,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 152
       },
       {
         "frame": 165,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_winner"
+        "label": "near_middle_stroke_bh_-_CC_-_winner"
       }
     ],
     "check": "NA",
@@ -5285,14 +5285,14 @@
     "events": [
       {
         "frame": 67,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 77
       },
       {
         "frame": 86,
-        "fine_label": "near_middle_return_fh_-_CC_-_in"
+        "label": "near_middle_return_fh_-_CC_-_in"
       }
     ],
     "check": "NA",
@@ -5314,14 +5314,14 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 19
       },
       {
         "frame": 30,
-        "fine_label": "near_middle_return_fh_-_DM_-_forced-err"
+        "label": "near_middle_return_fh_-_DM_-_forced-err"
       },
       {
         "frame": 57
@@ -5346,53 +5346,53 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 29,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 51
       },
       {
         "frame": 58,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 84
       },
       {
         "frame": 92,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 115
       },
       {
         "frame": 123,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 142
       },
       {
         "frame": 155,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 173
       },
       {
         "frame": 194,
-        "fine_label": "far_deuce_stroke_bh_slice_DM_-_in"
+        "label": "far_deuce_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 223,
-        "fine_label": "near_middle_stroke_bh_volley_CC_-_winner"
+        "label": "near_middle_stroke_bh_volley_CC_-_winner"
       }
     ],
     "check": "NA",
@@ -5414,49 +5414,49 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 23
       },
       {
         "frame": 32,
-        "fine_label": "near_middle_return_bh_-_DM_-_in"
+        "label": "near_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 54
       },
       {
         "frame": 63,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 84
       },
       {
         "frame": 97,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 120
       },
       {
         "frame": 126,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 151
       },
       {
         "frame": 161,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 180
       },
       {
         "frame": 188,
-        "fine_label": "far_ad_stroke_fh_-_DL_-_winner"
+        "label": "far_ad_stroke_fh_-_DL_-_winner"
       },
       {
         "frame": 208
@@ -5481,7 +5481,7 @@
     "events": [
       {
         "frame": 21,
-        "fine_label": "far_deuce_serve_-_-_W_-_unforced-err"
+        "label": "far_deuce_serve_-_-_W_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -5503,14 +5503,14 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 29
       },
       {
         "frame": 40,
-        "fine_label": "near_deuce_return_fh_-_DL_-_winner"
+        "label": "near_deuce_return_fh_-_DL_-_winner"
       },
       {
         "frame": 60
@@ -5535,91 +5535,91 @@
     "events": [
       {
         "frame": 7,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 17
       },
       {
         "frame": 25,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 49
       },
       {
         "frame": 55,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 88
       },
       {
         "frame": 96,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 113
       },
       {
         "frame": 125,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 151
       },
       {
         "frame": 165,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 182
       },
       {
         "frame": 190,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 213
       },
       {
         "frame": 221,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 248
       },
       {
         "frame": 255,
-        "fine_label": "far_deuce_stroke_fh_-_II_-_in"
+        "label": "far_deuce_stroke_fh_-_II_-_in"
       },
       {
         "frame": 275
       },
       {
         "frame": 284,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 305
       },
       {
         "frame": 315,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 345
       },
       {
         "frame": 352,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 372
       },
       {
         "frame": 384,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_IO_-_unforced-err"
       },
       {
         "frame": 411
@@ -5644,56 +5644,56 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 24
       },
       {
         "frame": 32,
-        "fine_label": "near_deuce_return_fh_-_CC_-_in"
+        "label": "near_deuce_return_fh_-_CC_-_in"
       },
       {
         "frame": 56
       },
       {
         "frame": 62,
-        "fine_label": "far_deuce_stroke_fh_-_DM_-_in"
+        "label": "far_deuce_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 86
       },
       {
         "frame": 99,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 122
       },
       {
         "frame": 129,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 153
       },
       {
         "frame": 163,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 183
       },
       {
         "frame": 190,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 229
       },
       {
         "frame": 238,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_unforced-err"
+        "label": "near_middle_stroke_fh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -5715,14 +5715,14 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 33,
-        "fine_label": "near_ad_return_bh_-_CC_-_forced-err"
+        "label": "near_ad_return_bh_-_CC_-_forced-err"
       },
       {
         "frame": 61
@@ -5747,7 +5747,7 @@
     "events": [
       {
         "frame": 85,
-        "fine_label": "far_deuce_serve_-_-_T_-_unforced-err"
+        "label": "far_deuce_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 96
@@ -5772,70 +5772,70 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 26
       },
       {
         "frame": 43,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 81
       },
       {
         "frame": 95,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 119
       },
       {
         "frame": 129,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 154
       },
       {
         "frame": 165,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 194
       },
       {
         "frame": 207,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 228
       },
       {
         "frame": 240,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 272
       },
       {
         "frame": 283,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 300
       },
       {
         "frame": 310,
-        "fine_label": "far_middle_stroke_fh_slice_na_-_in"
+        "label": "far_middle_stroke_fh_slice_na_-_in"
       },
       {
         "frame": 341
       },
       {
         "frame": 352,
-        "fine_label": "near_na_stroke_fh_-_na_-_unforced-err"
+        "label": "near_na_stroke_fh_-_na_-_unforced-err"
       },
       {
         "frame": 370
@@ -5860,7 +5860,7 @@
     "events": [
       {
         "frame": 26,
-        "fine_label": "far_deuce_serve_-_-_W_-_unforced-err"
+        "label": "far_deuce_serve_-_-_W_-_unforced-err"
       },
       {
         "frame": 38
@@ -5885,49 +5885,49 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 31
       },
       {
         "frame": 47,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 73
       },
       {
         "frame": 76,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 105
       },
       {
         "frame": 113,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 132
       },
       {
         "frame": 141,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 158
       },
       {
         "frame": 169,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 200
       },
       {
         "frame": 216,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_unforced-err"
+        "label": "far_ad_stroke_fh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -5949,14 +5949,14 @@
     "events": [
       {
         "frame": 5,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 16
       },
       {
         "frame": 33,
-        "fine_label": "near_middle_return_bh_-_DM_-_in"
+        "label": "near_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 60
@@ -5984,84 +5984,84 @@
     "events": [
       {
         "frame": 27,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 39
       },
       {
         "frame": 57,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 83
       },
       {
         "frame": 91,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_in"
+        "label": "far_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 116
       },
       {
         "frame": 130,
-        "fine_label": "near_deuce_stroke_bh_slice_DM_-_in"
+        "label": "near_deuce_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 163
       },
       {
         "frame": 174,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 196
       },
       {
         "frame": 206,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 232
       },
       {
         "frame": 241,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 262
       },
       {
         "frame": 274,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 295
       },
       {
         "frame": 313,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 337
       },
       {
         "frame": 341,
-        "fine_label": "near_deuce_stroke_fh_-_IO_-_in"
+        "label": "near_deuce_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 369
       },
       {
         "frame": 382,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 409
       },
       {
         "frame": 416,
-        "fine_label": "near_deuce_stroke_bh_-_DL_-_in"
+        "label": "near_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 435
@@ -6086,7 +6086,7 @@
     "events": [
       {
         "frame": 18,
-        "fine_label": "far_ad_serve_-_-_W_-_unforced-err"
+        "label": "far_ad_serve_-_-_W_-_unforced-err"
       },
       {
         "frame": 28
@@ -6111,84 +6111,84 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 48,
-        "fine_label": "near_ad_return_fh_-_DM_-_in"
+        "label": "near_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 79
       },
       {
         "frame": 87,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 108
       },
       {
         "frame": 122,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 149
       },
       {
         "frame": 156,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_in"
+        "label": "far_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 184
       },
       {
         "frame": 198,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 222
       },
       {
         "frame": 229,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 249
       },
       {
         "frame": 260,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 284
       },
       {
         "frame": 298,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 317
       },
       {
         "frame": 330,
-        "fine_label": "near_deuce_stroke_bh_slice_DM_-_in"
+        "label": "near_deuce_stroke_bh_slice_DM_-_in"
       },
       {
         "frame": 360
       },
       {
         "frame": 370,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 390
       },
       {
         "frame": 402,
-        "fine_label": "near_deuce_stroke_bh_slice_DL_-_in"
+        "label": "near_deuce_stroke_bh_slice_DL_-_in"
       },
       {
         "frame": 429
@@ -6216,35 +6216,35 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 28,
-        "fine_label": "far_deuce_return_fh_-_DM_-_in"
+        "label": "far_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 45
       },
       {
         "frame": 58,
-        "fine_label": "near_middle_stroke_bh_-_IO_-_in"
+        "label": "near_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 86
       },
       {
         "frame": 94,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 119
       },
       {
         "frame": 124,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 150
@@ -6269,7 +6269,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_B_-_unforced-err"
+        "label": "near_deuce_serve_-_-_B_-_unforced-err"
       },
       {
         "frame": 21
@@ -6294,14 +6294,14 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 33,
-        "fine_label": "far_deuce_return_fh_-_DL_-_forced-err"
+        "label": "far_deuce_return_fh_-_DL_-_forced-err"
       },
       {
         "frame": 51
@@ -6326,7 +6326,7 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_ad_serve_-_-_T_-_winner"
+        "label": "near_ad_serve_-_-_T_-_winner"
       },
       {
         "frame": 19
@@ -6351,7 +6351,7 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       }
     ],
     "check": "NA",
@@ -6376,14 +6376,14 @@
       },
       {
         "frame": 49,
-        "fine_label": "far_deuce_return_bh_-_CC_-_in"
+        "label": "far_deuce_return_bh_-_CC_-_in"
       },
       {
         "frame": 68
       },
       {
         "frame": 80,
-        "fine_label": "near_deuce_stroke_fh_-_DL_-_winner"
+        "label": "near_deuce_stroke_fh_-_DL_-_winner"
       },
       {
         "frame": 96
@@ -6408,39 +6408,39 @@
     "events": [
       {
         "frame": 23,
-        "fine_label": "near_ad_serve_-_-_T_-_in"
+        "label": "near_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 33
       },
       {
         "frame": 46,
-        "fine_label": "far_middle_return_bh_-_DM_-_in"
+        "label": "far_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 80
       },
       {
         "frame": 89,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 105
       },
       {
         "frame": 120,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 151
       },
       {
         "frame": 159,
-        "fine_label": "near_middle_stroke_bh_drop_IO_-_in"
+        "label": "near_middle_stroke_bh_drop_IO_-_in"
       },
       {
         "frame": 217,
-        "fine_label": "far_deuce_stroke_bh_-_DL_-_in"
+        "label": "far_deuce_stroke_bh_-_DL_-_in"
       }
     ],
     "check": "NA",
@@ -6462,21 +6462,21 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 27
       },
       {
         "frame": 43,
-        "fine_label": "far_deuce_return_fh_-_II_-_in"
+        "label": "far_deuce_return_fh_-_II_-_in"
       },
       {
         "frame": 67
       },
       {
         "frame": 78,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_unforced-err"
+        "label": "near_ad_stroke_bh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -6498,7 +6498,7 @@
     "events": [
       {
         "frame": 20,
-        "fine_label": "far_deuce_serve_-_-_B_-_unforced-err"
+        "label": "far_deuce_serve_-_-_B_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -6520,35 +6520,35 @@
     "events": [
       {
         "frame": 23,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 33
       },
       {
         "frame": 43,
-        "fine_label": "near_ad_return_bh_-_DM_-_in"
+        "label": "near_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 73
       },
       {
         "frame": 84,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 101
       },
       {
         "frame": 109,
-        "fine_label": "near_ad_stroke_bh_slice_DL_-_in"
+        "label": "near_ad_stroke_bh_slice_DL_-_in"
       },
       {
         "frame": 146
       },
       {
         "frame": 162,
-        "fine_label": "far_deuce_stroke_fh_-_IO_-_winner"
+        "label": "far_deuce_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 178
@@ -6573,42 +6573,42 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 30,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 57
       },
       {
         "frame": 68,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 89
       },
       {
         "frame": 95,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 116
       },
       {
         "frame": 125,
-        "fine_label": "far_deuce_stroke_bh_-_DL_-_in"
+        "label": "far_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 147
       },
       {
         "frame": 157,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_unforced-err"
+        "label": "near_ad_stroke_bh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -6630,7 +6630,7 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "far_ad_serve_-_-_T_-_unforced-err"
+        "label": "far_ad_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -6652,14 +6652,14 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 23
       },
       {
         "frame": 34,
-        "fine_label": "near_ad_return_bh_-_DM_-_forced-err"
+        "label": "near_ad_return_bh_-_DM_-_forced-err"
       },
       {
         "frame": 57
@@ -6684,21 +6684,21 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 35,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 57
       },
       {
         "frame": 68,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_winner"
+        "label": "far_middle_stroke_fh_-_IO_-_winner"
       }
     ],
     "check": "NA",
@@ -6720,50 +6720,50 @@
     "events": [
       {
         "frame": 24,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 36
       },
       {
         "frame": 55,
-        "fine_label": "near_ad_return_fh_-_DM_-_in"
+        "label": "near_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 82
       },
       {
         "frame": 86,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 112
       },
       {
         "frame": 121,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 146
       },
       {
         "frame": 155,
-        "fine_label": "far_middle_stroke_bh_drop_IO_-_in"
+        "label": "far_middle_stroke_bh_drop_IO_-_in"
       },
       {
         "frame": 188
       },
       {
         "frame": 211,
-        "fine_label": "near_deuce_stroke_bh_volley_DL_-_in"
+        "label": "near_deuce_stroke_bh_volley_DL_-_in"
       },
       {
         "frame": 234,
-        "fine_label": "far_ad_stroke_bh_volley_DL_-_in"
+        "label": "far_ad_stroke_bh_volley_DL_-_in"
       },
       {
         "frame": 261,
-        "fine_label": "near_deuce_stroke_bh_smash_DM_-_in"
+        "label": "near_deuce_stroke_bh_smash_DM_-_in"
       },
       {
         "frame": 271
@@ -6788,32 +6788,32 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 19
       },
       {
         "frame": 33,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 58
       },
       {
         "frame": 66,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 84
       },
       {
         "frame": 100,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 129,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -6835,42 +6835,42 @@
     "events": [
       {
         "frame": 17,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 46,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 70
       },
       {
         "frame": 81,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 104
       },
       {
         "frame": 115,
-        "fine_label": "near_ad_stroke_fh_-_DL_-_in"
+        "label": "near_ad_stroke_fh_-_DL_-_in"
       },
       {
         "frame": 133
       },
       {
         "frame": 142,
-        "fine_label": "far_deuce_stroke_fh_slice_CC_-_in"
+        "label": "far_deuce_stroke_fh_slice_CC_-_in"
       },
       {
         "frame": 178
       },
       {
         "frame": 191,
-        "fine_label": "near_deuce_stroke_bh_-_CC_-_winner"
+        "label": "near_deuce_stroke_bh_-_CC_-_winner"
       }
     ],
     "check": "NA",
@@ -6892,28 +6892,28 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 15
       },
       {
         "frame": 28,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 56
       },
       {
         "frame": 66,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 81
       },
       {
         "frame": 90,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 137
@@ -6938,7 +6938,7 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 25
@@ -6963,7 +6963,7 @@
     "events": [
       {
         "frame": 24,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       }
     ],
     "check": "NA",
@@ -6985,70 +6985,70 @@
     "events": [
       {
         "frame": 16,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 47,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 73
       },
       {
         "frame": 82,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 102
       },
       {
         "frame": 109,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 128
       },
       {
         "frame": 139,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 157
       },
       {
         "frame": 169,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 192
       },
       {
         "frame": 203,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 220
       },
       {
         "frame": 231,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_in"
+        "label": "near_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 253
       },
       {
         "frame": 266,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 282
       },
       {
         "frame": 291,
-        "fine_label": "near_deuce_stroke_bh_slice_na_-_forced-err"
+        "label": "near_deuce_stroke_bh_slice_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -7070,7 +7070,7 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_deuce_serve_-_-_T_-_unforced-err"
+        "label": "far_deuce_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 28
@@ -7095,28 +7095,28 @@
     "events": [
       {
         "frame": 2,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 14
       },
       {
         "frame": 31,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 60
       },
       {
         "frame": 64,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 83
       },
       {
         "frame": 93,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_unforced-err"
+        "label": "near_middle_stroke_fh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7138,7 +7138,7 @@
     "events": [
       {
         "frame": 22,
-        "fine_label": "far_ad_serve_-_-_W_-_unforced-err"
+        "label": "far_ad_serve_-_-_W_-_unforced-err"
       },
       {
         "frame": 33
@@ -7163,14 +7163,14 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_ad_serve_-_-_T_-_in"
+        "label": "far_ad_serve_-_-_T_-_in"
       },
       {
         "frame": 29
       },
       {
         "frame": 48,
-        "fine_label": "near_middle_return_bh_-_CC_-_unforced-err"
+        "label": "near_middle_return_bh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7192,42 +7192,42 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 30,
-        "fine_label": "far_deuce_return_fh_-_CC_-_in"
+        "label": "far_deuce_return_fh_-_CC_-_in"
       },
       {
         "frame": 53
       },
       {
         "frame": 59,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 87
       },
       {
         "frame": 94,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 120
       },
       {
         "frame": 133,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 149
       },
       {
         "frame": 159,
-        "fine_label": "far_ad_stroke_bh_-_na_-_forced-err"
+        "label": "far_ad_stroke_bh_-_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -7249,14 +7249,14 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 16
       },
       {
         "frame": 26,
-        "fine_label": "far_ad_return_bh_-_na_-_forced-err"
+        "label": "far_ad_return_bh_-_na_-_forced-err"
       }
     ],
     "check": "NA",
@@ -7278,7 +7278,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "near_deuce_serve_-_-_T_-_unforced-err"
+        "label": "near_deuce_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7300,7 +7300,7 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "near_deuce_serve_-_-_T_-_unforced-err"
+        "label": "near_deuce_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7322,28 +7322,28 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 36,
-        "fine_label": "far_middle_return_bh_-_CC_-_in"
+        "label": "far_middle_return_bh_-_CC_-_in"
       },
       {
         "frame": 55
       },
       {
         "frame": 64,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 94
       },
       {
         "frame": 102,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_unforced-err"
+        "label": "far_ad_stroke_bh_-_CC_-_unforced-err"
       },
       {
         "frame": 125
@@ -7368,49 +7368,49 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 20
       },
       {
         "frame": 35,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 81
       },
       {
         "frame": 89,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 113
       },
       {
         "frame": 122,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 146
       },
       {
         "frame": 156,
-        "fine_label": "near_ad_stroke_bh_-_DL_-_in"
+        "label": "near_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 172
       },
       {
         "frame": 188,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_in"
+        "label": "far_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 210
       },
       {
         "frame": 225,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_winner"
+        "label": "near_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 244
@@ -7435,11 +7435,11 @@
     "events": [
       {
         "frame": 65,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 86,
-        "fine_label": "far_ad_return_fh_-_na_-_forced-err"
+        "label": "far_ad_return_fh_-_na_-_forced-err"
       },
       {
         "frame": 119
@@ -7464,7 +7464,7 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "near_deuce_serve_-_-_T_-_unforced-err"
+        "label": "near_deuce_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7486,28 +7486,28 @@
     "events": [
       {
         "frame": 18,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 30
       },
       {
         "frame": 46,
-        "fine_label": "far_deuce_return_bh_-_CC_-_in"
+        "label": "far_deuce_return_bh_-_CC_-_in"
       },
       {
         "frame": 71
       },
       {
         "frame": 78,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 102
       },
       {
         "frame": 107,
-        "fine_label": "far_deuce_stroke_fh_-_IO_-_unforced-err"
+        "label": "far_deuce_stroke_fh_-_IO_-_unforced-err"
       },
       {
         "frame": 125
@@ -7532,7 +7532,7 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "near_ad_serve_-_-_W_-_winner"
+        "label": "near_ad_serve_-_-_W_-_winner"
       }
     ],
     "check": "NA",
@@ -7554,28 +7554,28 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 33,
-        "fine_label": "far_middle_return_bh_-_CC_-_in"
+        "label": "far_middle_return_bh_-_CC_-_in"
       },
       {
         "frame": 61
       },
       {
         "frame": 73,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 96
       },
       {
         "frame": 109,
-        "fine_label": "far_ad_stroke_bh_slice_DL_-_forced-err"
+        "label": "far_ad_stroke_bh_slice_DL_-_forced-err"
       },
       {
         "frame": 146
@@ -7600,7 +7600,7 @@
     "events": [
       {
         "frame": 10,
-        "fine_label": "near_ad_serve_-_-_W_-_unforced-err"
+        "label": "near_ad_serve_-_-_W_-_unforced-err"
       },
       {
         "frame": 22
@@ -7625,56 +7625,56 @@
     "events": [
       {
         "frame": 15,
-        "fine_label": "near_ad_serve_-_-_B_-_in"
+        "label": "near_ad_serve_-_-_B_-_in"
       },
       {
         "frame": 28
       },
       {
         "frame": 37,
-        "fine_label": "far_ad_return_bh_-_DM_-_in"
+        "label": "far_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 59
       },
       {
         "frame": 69,
-        "fine_label": "near_middle_stroke_bh_-_DM_-_in"
+        "label": "near_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 105
       },
       {
         "frame": 113,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 136
       },
       {
         "frame": 145,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 170
       },
       {
         "frame": 176,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 194
       },
       {
         "frame": 206,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_in"
+        "label": "near_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 228
       },
       {
         "frame": 235,
-        "fine_label": "far_deuce_stroke_fh_-_DM_-_unforced-err"
+        "label": "far_deuce_stroke_fh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7696,14 +7696,14 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 22
       },
       {
         "frame": 30,
-        "fine_label": "far_middle_return_bh_-_DM_-_forced-err"
+        "label": "far_middle_return_bh_-_DM_-_forced-err"
       }
     ],
     "check": "NA",
@@ -7725,21 +7725,21 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "far_deuce_serve_-_-_T_-_in"
+        "label": "far_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 29
       },
       {
         "frame": 42,
-        "fine_label": "near_middle_return_fh_-_DM_-_in"
+        "label": "near_middle_return_fh_-_DM_-_in"
       },
       {
         "frame": 74
       },
       {
         "frame": 85,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "far_middle_stroke_bh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -7761,70 +7761,70 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 16
       },
       {
         "frame": 28,
-        "fine_label": "near_ad_return_fh_-_DM_-_in"
+        "label": "near_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 57
       },
       {
         "frame": 65,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 94
       },
       {
         "frame": 105,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_in"
+        "label": "near_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 128
       },
       {
         "frame": 137,
-        "fine_label": "far_ad_stroke_bh_-_DM_-_in"
+        "label": "far_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 154
       },
       {
         "frame": 167,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 188
       },
       {
         "frame": 199,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 221
       },
       {
         "frame": 225,
-        "fine_label": "near_middle_stroke_bh_-_IO_-_in"
+        "label": "near_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 251
       },
       {
         "frame": 264,
-        "fine_label": "far_ad_stroke_bh_-_DL_-_in"
+        "label": "far_ad_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 283
       },
       {
         "frame": 289,
-        "fine_label": "near_deuce_stroke_fh_slice_DM_-_in"
+        "label": "near_deuce_stroke_fh_slice_DM_-_in"
       }
     ],
     "check": "NA",
@@ -7846,57 +7846,57 @@
     "events": [
       {
         "frame": 80,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 90
       },
       {
         "frame": 101,
-        "fine_label": "near_ad_return_bh_-_DM_-_in"
+        "label": "near_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 131
       },
       {
         "frame": 138,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 160
       },
       {
         "frame": 172,
-        "fine_label": "near_middle_stroke_bh_-_CC_-_in"
+        "label": "near_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 194
       },
       {
         "frame": 202,
-        "fine_label": "far_deuce_stroke_fh_-_CC_-_in"
+        "label": "far_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 227
       },
       {
         "frame": 230,
-        "fine_label": "near_deuce_stroke_bh_-_DM_-_in"
+        "label": "near_deuce_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 256
       },
       {
         "frame": 266,
-        "fine_label": "far_middle_stroke_bh_drop_IO_-_in"
+        "label": "far_middle_stroke_bh_drop_IO_-_in"
       },
       {
         "frame": 477,
-        "fine_label": "near_deuce_stroke_bh_-_DL_-_in"
+        "label": "near_deuce_stroke_bh_-_DL_-_in"
       },
       {
         "frame": 493,
-        "fine_label": "far_ad_stroke_bh_volley_CC_-_in"
+        "label": "far_ad_stroke_bh_volley_CC_-_in"
       }
     ],
     "check": "NA",
@@ -7918,21 +7918,21 @@
     "events": [
       {
         "frame": 22,
-        "fine_label": "far_deuce_serve_-_-_W_-_in"
+        "label": "far_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 33
       },
       {
         "frame": 48,
-        "fine_label": "near_deuce_return_bh_-_DM_-_in"
+        "label": "near_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 66
       },
       {
         "frame": 81,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_CC_-_unforced-err"
       },
       {
         "frame": 108
@@ -7957,7 +7957,7 @@
     "events": [
       {
         "frame": 20,
-        "fine_label": "far_deuce_serve_-_-_B_-_winner"
+        "label": "far_deuce_serve_-_-_B_-_winner"
       },
       {
         "frame": 31
@@ -7982,7 +7982,7 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "far_ad_serve_-_-_W_-_unforced-err"
+        "label": "far_ad_serve_-_-_W_-_unforced-err"
       },
       {
         "frame": 23
@@ -8007,35 +8007,35 @@
     "events": [
       {
         "frame": 22,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 36
       },
       {
         "frame": 48,
-        "fine_label": "near_ad_return_bh_-_DL_-_in"
+        "label": "near_ad_return_bh_-_DL_-_in"
       },
       {
         "frame": 70
       },
       {
         "frame": 79,
-        "fine_label": "far_deuce_stroke_bh_-_CC_-_in"
+        "label": "far_deuce_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 105
       },
       {
         "frame": 123,
-        "fine_label": "near_deuce_stroke_fh_-_CC_-_in"
+        "label": "near_deuce_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 144
       },
       {
         "frame": 153,
-        "fine_label": "far_deuce_stroke_bh_-_DM_-_unforced-err"
+        "label": "far_deuce_stroke_bh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -8057,63 +8057,63 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 25
       },
       {
         "frame": 36,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 56
       },
       {
         "frame": 67,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 95
       },
       {
         "frame": 102,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 124
       },
       {
         "frame": 136,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 153
       },
       {
         "frame": 162,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 190
       },
       {
         "frame": 202,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 221
       },
       {
         "frame": 231,
-        "fine_label": "near_deuce_stroke_fh_slice_DM_-_in"
+        "label": "near_deuce_stroke_fh_slice_DM_-_in"
       },
       {
         "frame": 276
       },
       {
         "frame": 290,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_winner"
+        "label": "far_middle_stroke_fh_-_IO_-_winner"
       },
       {
         "frame": 306
@@ -8138,84 +8138,84 @@
     "events": [
       {
         "frame": 5,
-        "fine_label": "far_ad_serve_-_-_W_-_in"
+        "label": "far_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 14
       },
       {
         "frame": 25,
-        "fine_label": "near_ad_return_fh_-_DM_-_in"
+        "label": "near_ad_return_fh_-_DM_-_in"
       },
       {
         "frame": 50
       },
       {
         "frame": 60,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 77
       },
       {
         "frame": 88,
-        "fine_label": "near_deuce_stroke_fh_-_DL_-_in"
+        "label": "near_deuce_stroke_fh_-_DL_-_in"
       },
       {
         "frame": 107
       },
       {
         "frame": 120,
-        "fine_label": "far_ad_stroke_fh_-_CC_-_in"
+        "label": "far_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 147
       },
       {
         "frame": 153,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 177
       },
       {
         "frame": 183,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 204
       },
       {
         "frame": 217,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 239
       },
       {
         "frame": 245,
-        "fine_label": "far_middle_stroke_bh_-_IO_-_in"
+        "label": "far_middle_stroke_bh_-_IO_-_in"
       },
       {
         "frame": 272
       },
       {
         "frame": 285,
-        "fine_label": "near_ad_stroke_bh_-_CC_-_in"
+        "label": "near_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 301
       },
       {
         "frame": 312,
-        "fine_label": "far_ad_stroke_fh_-_DM_-_in"
+        "label": "far_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 342
       },
       {
         "frame": 347,
-        "fine_label": "near_middle_stroke_bh_-_IO_-_unforced-err"
+        "label": "near_middle_stroke_bh_-_IO_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -8237,7 +8237,7 @@
     "events": [
       {
         "frame": 11,
-        "fine_label": "far_deuce_serve_-_-_T_-_unforced-err"
+        "label": "far_deuce_serve_-_-_T_-_unforced-err"
       },
       {
         "frame": 21
@@ -8262,42 +8262,42 @@
     "events": [
       {
         "frame": 8,
-        "fine_label": "far_deuce_serve_-_-_B_-_in"
+        "label": "far_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 20
       },
       {
         "frame": 33,
-        "fine_label": "near_deuce_return_fh_-_DM_-_in"
+        "label": "near_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 47
       },
       {
         "frame": 57,
-        "fine_label": "far_middle_stroke_fh_-_CC_-_in"
+        "label": "far_middle_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 77
       },
       {
         "frame": 91,
-        "fine_label": "near_ad_stroke_bh_-_DM_-_in"
+        "label": "near_ad_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 111
       },
       {
         "frame": 119,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 139
       },
       {
         "frame": 151,
-        "fine_label": "near_deuce_stroke_fh_-_DM_-_unforced-err"
+        "label": "near_deuce_stroke_fh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -8319,7 +8319,7 @@
     "events": [
       {
         "frame": 14,
-        "fine_label": "near_deuce_serve_-_-_T_-_unforced-err"
+        "label": "near_deuce_serve_-_-_T_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -8341,21 +8341,21 @@
     "events": [
       {
         "frame": 9,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 18
       },
       {
         "frame": 28,
-        "fine_label": "far_middle_return_fh_-_CC_-_in"
+        "label": "far_middle_return_fh_-_CC_-_in"
       },
       {
         "frame": 60
       },
       {
         "frame": 67,
-        "fine_label": "near_ad_stroke_bh_drop_DL_-_in"
+        "label": "near_ad_stroke_bh_drop_DL_-_in"
       }
     ],
     "check": "NA",
@@ -8377,7 +8377,7 @@
     "events": [
       {
         "frame": 29,
-        "fine_label": "near_ad_serve_-_-_B_-_winner"
+        "label": "near_ad_serve_-_-_B_-_winner"
       }
     ],
     "check": "NA",
@@ -8399,7 +8399,7 @@
     "events": [
       {
         "frame": 99,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 114
@@ -8424,84 +8424,84 @@
     "events": [
       {
         "frame": 52,
-        "fine_label": "near_deuce_serve_-_-_B_-_in"
+        "label": "near_deuce_serve_-_-_B_-_in"
       },
       {
         "frame": 63
       },
       {
         "frame": 72,
-        "fine_label": "far_deuce_return_bh_-_DM_-_in"
+        "label": "far_deuce_return_bh_-_DM_-_in"
       },
       {
         "frame": 95
       },
       {
         "frame": 102,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 122
       },
       {
         "frame": 136,
-        "fine_label": "far_middle_stroke_bh_-_DM_-_in"
+        "label": "far_middle_stroke_bh_-_DM_-_in"
       },
       {
         "frame": 154
       },
       {
         "frame": 166,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 192
       },
       {
         "frame": 198,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 215
       },
       {
         "frame": 231,
-        "fine_label": "near_ad_stroke_fh_slice_DM_-_in"
+        "label": "near_ad_stroke_fh_slice_DM_-_in"
       },
       {
         "frame": 264
       },
       {
         "frame": 274,
-        "fine_label": "far_middle_stroke_fh_-_IO_-_in"
+        "label": "far_middle_stroke_fh_-_IO_-_in"
       },
       {
         "frame": 290
       },
       {
         "frame": 304,
-        "fine_label": "near_ad_stroke_fh_-_CC_-_in"
+        "label": "near_ad_stroke_fh_-_CC_-_in"
       },
       {
         "frame": 335
       },
       {
         "frame": 343,
-        "fine_label": "far_ad_stroke_bh_-_CC_-_in"
+        "label": "far_ad_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 364
       },
       {
         "frame": 372,
-        "fine_label": "near_ad_stroke_fh_-_DM_-_in"
+        "label": "near_ad_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 394
       },
       {
         "frame": 409,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_unforced-err"
+        "label": "far_middle_stroke_fh_-_DM_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -8523,18 +8523,18 @@
     "events": [
       {
         "frame": 34,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 53,
-        "fine_label": "far_ad_return_bh_-_DM_-_in"
+        "label": "far_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 77
       },
       {
         "frame": 87,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_unforced-err"
+        "label": "near_middle_stroke_fh_-_CC_-_unforced-err"
       }
     ],
     "check": "NA",
@@ -8556,21 +8556,21 @@
     "events": [
       {
         "frame": 19,
-        "fine_label": "near_deuce_serve_-_-_W_-_in"
+        "label": "near_deuce_serve_-_-_W_-_in"
       },
       {
         "frame": 29
       },
       {
         "frame": 38,
-        "fine_label": "far_deuce_return_fh_-_DM_-_in"
+        "label": "far_deuce_return_fh_-_DM_-_in"
       },
       {
         "frame": 63
       },
       {
         "frame": 74,
-        "fine_label": "near_middle_stroke_fh_-_CC_-_winner"
+        "label": "near_middle_stroke_fh_-_CC_-_winner"
       },
       {
         "frame": 90
@@ -8595,49 +8595,49 @@
     "events": [
       {
         "frame": 12,
-        "fine_label": "near_ad_serve_-_-_W_-_in"
+        "label": "near_ad_serve_-_-_W_-_in"
       },
       {
         "frame": 21
       },
       {
         "frame": 30,
-        "fine_label": "far_ad_return_bh_-_DM_-_in"
+        "label": "far_ad_return_bh_-_DM_-_in"
       },
       {
         "frame": 53
       },
       {
         "frame": 60,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 77
       },
       {
         "frame": 91,
-        "fine_label": "far_middle_stroke_fh_-_DM_-_in"
+        "label": "far_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 118
       },
       {
         "frame": 128,
-        "fine_label": "near_middle_stroke_fh_-_DM_-_in"
+        "label": "near_middle_stroke_fh_-_DM_-_in"
       },
       {
         "frame": 150
       },
       {
         "frame": 158,
-        "fine_label": "far_middle_stroke_bh_-_CC_-_in"
+        "label": "far_middle_stroke_bh_-_CC_-_in"
       },
       {
         "frame": 180
       },
       {
         "frame": 192,
-        "fine_label": "near_ad_stroke_fh_-_DL_-_winner"
+        "label": "near_ad_stroke_fh_-_DL_-_winner"
       },
       {
         "frame": 213
@@ -8662,21 +8662,21 @@
     "events": [
       {
         "frame": 6,
-        "fine_label": "near_deuce_serve_-_-_T_-_in"
+        "label": "near_deuce_serve_-_-_T_-_in"
       },
       {
         "frame": 15
       },
       {
         "frame": 23,
-        "fine_label": "far_middle_return_bh_-_DM_-_in"
+        "label": "far_middle_return_bh_-_DM_-_in"
       },
       {
         "frame": 44
       },
       {
         "frame": 55,
-        "fine_label": "near_middle_stroke_fh_-_IO_-_winner"
+        "label": "near_middle_stroke_fh_-_IO_-_winner"
       }
     ],
     "check": "NA",
